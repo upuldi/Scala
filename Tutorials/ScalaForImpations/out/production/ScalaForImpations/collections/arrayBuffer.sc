@@ -5,8 +5,6 @@ import scala.collection.mutable.ArrayBuffer;
 
 var arrayBuffer = ArrayBuffer("string one","string two", "string three")
 
-arrayBuffer(0)
-
 arrayBuffer.reverse
 
 //you can add elements to the array buffer by using =+
