@@ -42,24 +42,22 @@ kk("Rabbit")
 
 //With an immutable map
 
-//def countWithImmutableMap:Map[String,Int] = {
-//
-//  val in = new Scanner(new URL(
-//    "http://horstmann.com/presentations/livelessons-scala-2016/alice30.txt").openStream())
-//
-//  var immutableMap = Map[String,Int]()
-//  while (in.hasNext) {
-//    val word = in.next()
-//    var countIntheMap = immutableMap.getOrElse(word,0)
-//    countIntheMap = countIntheMap + 1
-//    val newMap =  Map[String,Int](word -> countIntheMap)
-//    immutableMap = immutableMap + newMap
-//
-//  }
-//  immutableMap
-//}
-//
-//val response = countWithImmutableMap
-//
-//response("Alice")
-//response("Rabbit")
+def countWithImmutableMap:Map[String,Int] = {
+
+  val in = new Scanner(new URL(
+    "http://horstmann.com/presentations/livelessons-scala-2016/alice30.txt").openStream())
+
+  var immutableMap = Map[String,Int]()
+  while (in.hasNext) {
+    val word = in.next()
+    var countIntheMap = immutableMap.getOrElse(word,0)
+    countIntheMap = countIntheMap + 1
+    immutableMap = immutableMap + ( word -> (countIntheMap + 1))
+  }
+  immutableMap
+}
+
+val response = countWithImmutableMap
+
+response("Alice")
+response("Rabbit")

@@ -15,3 +15,11 @@ aa
 bb
 
 //Tuples are good to pass values from function when more than one value is passed from the function.
+
+
+//Looping a tuple containing ArrayBuffer
+val symbols = Array("A","B","C")
+val counts = Array(2,10,2)
+val pairs = symbols.zip(counts)
+
+for((aa,bb) <- pairs) print(aa + " *** " + bb + " **\n")
