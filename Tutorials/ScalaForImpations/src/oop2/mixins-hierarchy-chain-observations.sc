@@ -31,7 +31,7 @@ doubleTrait.customMethod
 
 // Executing from right to left, looks like it stop executing once it saw everything is same
 
-// I have no idea why this is happening ? may be the first one wins
+// IF IT DOESNT INVOKE THE SUPER() MIXINGS STOP AT THE FIRST INVOCATION
 
 val stringAndIntMixin = new ChildClass with StringTrait with IntTrait
 stringAndIntMixin.customMethod
