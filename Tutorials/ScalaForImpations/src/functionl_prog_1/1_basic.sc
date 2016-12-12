@@ -11,6 +11,7 @@ var function = toString
 //(parameter:type) => function
 //For ex function which return a product
 val productAnnonymousFunction = (x:Int) => x*x
+
 //this above function will take x argument of int and return its product
 productAnnonymousFunction(5)
 

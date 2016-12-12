@@ -17,3 +17,9 @@
 //Filter is the guard condition of the for yield
 (1 to 9).filter(_ % 2 == 0).map(_ * 10)
 for(x <- 1 to 9; if x % 2 == 0) yield x * 10
+
+
+//Various ways map function can be written into
+(1 to 9).map((x:Int) => x * 10)
+(1 to 9).map(x => x * 10)
+(1 to 9).map( _ * 10)

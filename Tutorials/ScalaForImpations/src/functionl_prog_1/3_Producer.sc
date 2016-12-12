@@ -29,3 +29,5 @@ val annonymous = (fun : (Int) => String) => fun(10)
 annonymous( (x:Int) => f"Some consumer says ${x}"    )
 annonymous(x => f"Some Consumer nicely says ... its easy ${x}")
 annonymous(f"Some consumer says... Its the easiest " + _)
+
+//Here we are passing an annonymous function defined in various ways

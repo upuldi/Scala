@@ -1,3 +1,5 @@
+//In Scala higher order functions are encouraged instead of using loops
+
 //For loops demo
 //Here you don't have to define i
 val n = 10
