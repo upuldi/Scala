@@ -6,7 +6,7 @@
 (1 to 9).filter( _ % 2 == 0 )
 (1 to 9).filter((x:Int) => x % 2 == 0 )
 
-
+//Reduce left can be used to apply a function into a nabouring elements of a collection or a sequence
 //reduceLeft applies a binary function with two arguments,
 // going from left to right
 (1 to 9).reduceLeft(_ * _)

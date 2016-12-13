@@ -25,6 +25,15 @@ def powerOfTwo(n:Int) = (1 to n).map(x => 2).reduceLeft(_ * _ )
 powerOfTwo(3)
 powerOfTwo(10)
 
+def twoPower(n:Int):Int = {
+  var res = 1
+  for (x <- 1 to n) res = res*2
+  return res
+}
+
+twoPower(3)
+twoPower(10)
+
 
 
 def stringConcatinator(strings: Seq[String], separator: String) = {

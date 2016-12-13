@@ -19,7 +19,7 @@ for (k <- grouped.toArray) println(k(0))
 
 println("\nFinal Result ***** \n\n\n")
 
-val refined = zones.map(_.split("/")).filter(_.length > 1) .map(a => a(1)).grouped(10).toArray.map(x=> x(0))
+val refined = zones.map(_.split("/")).filter(_.length > 1) .map(a => a(1)).grouped(10).toArray.map(_(0))
 refined.length
 
 for (r <- refined) println(r)
