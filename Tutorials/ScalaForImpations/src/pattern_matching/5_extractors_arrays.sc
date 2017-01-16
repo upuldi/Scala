@@ -10,7 +10,7 @@ val result = array match {
     //Here we are matching an array containing exactly two elements and extract them
   case Array(x,y) => f"Two Item array ${x} , ${y}"
     //Here we are matching an array start with specific value and followed by any number of elements
-  case Array("A",_*) => f"Start with a known element...."
+  case Array("A",_*) => f"Start with a known element and I dont care whats the rest of the array is ...."
   case _ => "Default Case"
 }
 

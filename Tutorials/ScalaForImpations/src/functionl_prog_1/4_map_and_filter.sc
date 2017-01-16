@@ -23,3 +23,16 @@ for(x <- 1 to 9; if x % 2 == 0) yield x * 10
 (1 to 9).map((x:Int) => x * 10)
 (1 to 9).map(x => x * 10)
 (1 to 9).map( _ * 10)
+
+
+//Also consider the following senario
+def someFunction(x:Int):Int = {
+  x * 5
+}
+
+//Various vays of writing the map function
+(1 to 9).map(x => someFunction(x))
+(1 to 9).map(_ => someFunction(_))
+(1 to 9).map(someFunction(_))
+//If the arguments are so obvious you can ommit them
+(1 to 9).map(someFunction)
