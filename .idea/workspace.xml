@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a366c2aa-eb45-455b-844d-9d3fa0d1d4e7" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/basics/1_Types.sc" afterPath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/basics/1_Types.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/basics/2_ConditionalStatements.sc" afterPath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/basics/2_ConditionalStatements.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/basics/3_ForLoops.sc" afterPath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/basics/3_ForLoops.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/collections/1_ArraysBasics.sc" afterPath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/collections/1_ArraysBasics.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/collections/2_ArrayLooping.sc" afterPath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/collections/2_ArrayLooping.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/collections/3_ArrayBuffer.sc" afterPath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/collections/3_ArrayBuffer.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/collections/4_Maps.sc" afterPath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/collections/4_Maps.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/collections/5_InteratingOverMaps.sc" afterPath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/collections/5_InteratingOverMaps.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/collections/6_Mps_Another.sc" afterPath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/collections/6_Mps_Another.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/collections/7_Tuples.sc" afterPath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/collections/7_Tuples.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functionl_prog_1/1_basic.sc" afterPath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functionl_prog_1/1_basic.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functionl_prog_1/2_heigher_order_functions.sc" afterPath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functionl_prog_1/2_heigher_order_functions.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functionl_prog_1/3_Producer.sc" afterPath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functionl_prog_1/3_Producer.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functionl_prog_1/4_map_and_filter.sc" afterPath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functionl_prog_1/4_map_and_filter.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functionl_prog_1/5_closure.sc" afterPath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functionl_prog_1/5_closure.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functionl_prog_1/6_currying.sc" afterPath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functionl_prog_1/6_currying.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functionl_prog_1/7_Control_Abstractions.sc" afterPath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functionl_prog_1/7_Control_Abstractions.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functions/NamedAndDefaultParameters.sc" afterPath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functions/NamedAndDefaultParameters.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop1/1_BasicClassDefinition.sc" afterPath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop1/1_BasicClassDefinition.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop1/2_Constructors.sc" afterPath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop1/2_Constructors.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop1/4_Operators.sc" afterPath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop1/4_Operators.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop1/5_Objects.sc" afterPath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop1/5_Objects.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop1/6_CompanionObject.sc" afterPath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop1/6_CompanionObject.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop2/4_Inheritance_Class_Construction.sc" afterPath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop2/4_Inheritance_Class_Construction.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop2/5_Traits.sc" afterPath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop2/5_Traits.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop2/7_TraitLayers.sc" afterPath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop2/7_TraitLayers.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/pattern_matching/2_type_matching.sc" afterPath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/pattern_matching/2_type_matching.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/pattern_matching/6_ExtractorsInVariableDeclarations.sc" afterPath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/pattern_matching/6_ExtractorsInVariableDeclarations.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/pattern_matching/7_CaseClasses.sc" afterPath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/pattern_matching/7_CaseClasses.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/pattern_matching/8_option_class.sc" afterPath="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/pattern_matching/8_option_class.sc" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/basics/1_Types.sc" />
+        <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/basics/2_ConditionalStatements.sc" />
+        <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/basics/0_basics.sc" />
+        <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/basics/3_1_LoopsRevi.sc" />
+        <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/basics/0_1_String.sc" />
+        <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/collections/1_ArraysBasics.sc" />
+        <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/basics/3_ForLoops.sc" />
+        <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/collections/2_ArrayLooping.sc" />
+        <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/collections/3_ArrayBuffer.sc" />
+        <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/collections/5_InteratingOverMaps.sc" />
+        <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/collections/4_Maps.sc" />
+        <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/collections/6_Mps_Another.sc" />
+        <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/collections/7_Tuples.sc" />
+        <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functionl_prog_1/1_basic.sc" />
+        <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functionl_prog_1/Java_2_1.java" />
+        <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functionl_prog_1/2_heigher_order_functions.sc" />
+        <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functionl_prog_1/3_Producer.sc" />
+        <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functionl_prog_1/4_map_and_filter.sc" />
+        <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functionl_prog_1/5_closure.sc" />
+        <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functionl_prog_1/6_currying.sc" />
+        <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functionl_prog_1/7_Control_Abstractions.sc" />
+        <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functions/NamedAndDefaultParameters.sc" />
+        <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop1/1_BasicClassDefinition.sc" />
+        <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop1/2_Constructors.sc" />
+        <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop1/4_Operators.sc" />
+        <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop1/6_CompanionObject.sc" />
+        <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop1/5_Objects.sc" />
+        <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop2/4_Inheritance_Class_Construction.sc" />
+        <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop2/5_Traits.sc" />
+        <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop2/7_TraitLayers.sc" />
+        <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/pattern_matching/2_type_matching.sc" />
+        <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/pattern_matching/6_ExtractorsInVariableDeclarations.sc" />
+        <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/pattern_matching/7_CaseClasses.sc" />
+        <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/pattern_matching/8_option_class.sc" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1" />
+    <option name="y" value="-1" />
+    <option name="width" value="1922" />
+    <option name="height" value="1082" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Scala" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="/usr/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Scala Console.Scala Console">
+    <configuration name="Scala Console" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true">
+      <module name="Scala" />
+      <setting name="vmparams4" value="-Djline.terminal=NONE" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="consoleArgs" value="-usejavacp" />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Scala Console.Scala Console" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a366c2aa-eb45-455b-844d-9d3fa0d1d4e7" name="Default" comment="" />
+      <created>1504945200642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1504945200642</updated>
+      <workItem from="1504945201834" duration="2006000" />
+      <workItem from="1504947226833" duration="155000" />
+      <workItem from="1504947395865" duration="14916000" />
+      <workItem from="1505005993726" duration="3467000" />
+      <workItem from="1505167453330" duration="20185000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="40729000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="-1" width="1922" height="1082" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19477054" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/collections/5_InteratingOverMaps.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/collections/7_Tuples.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="669">
+          <caret line="43" column="8" lean-forward="false" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/collections/6_Mps_Another.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functionl_prog_1/1_basic.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="3" lean-forward="false" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functionl_prog_1/2_heigher_order_functions.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functionl_prog_1/3_Producer.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="10" lean-forward="false" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functionl_prog_1/4_map_and_filter.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functionl_prog_1/5_closure.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functionl_prog_1/6_currying.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functionl_prog_1/7_Control_Abstractions.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functionl_prog_1/Java_2_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="94" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="94" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functions/FunctionsBasic.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-380">
+          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functions/NamedAndDefaultParameters.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop1/1_1_ClassDefinition2.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop1/1_BasicClassDefinition.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop1/2_Constructors.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="20" column="44" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop1/3_UnitformAccess.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="43" column="12" lean-forward="false" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop1/4_Operators.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="43" column="21" lean-forward="true" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop1/5_Objects.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop1/6_CompanionObject.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="20" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop1/MyAplication.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop2/1_Packages.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop2/2_ImportStatement.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop2/3_Inheritance.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop2/4_Inheritance_Class_Construction.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop2/5_Traits.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop2/6_mixins.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="60" lean-forward="false" selection-start-line="41" selection-start-column="60" selection-end-line="41" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop2/7_TraitLayers.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="42" column="40" lean-forward="false" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop2/mixings-super-observations.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="14" lean-forward="false" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/oop2/mixins-hierarchy-chain-observations.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/pattern_matching/1_better_switch.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/pattern_matching/2_type_matching.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/pattern_matching/3_CatchingExceptions.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/pattern_matching/4_extractors_tuples.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/pattern_matching/5_extractors_arrays.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="32" lean-forward="false" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/pattern_matching/6_ExtractorsInVariableDeclarations.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/pattern_matching/7_CaseClasses.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="6" lean-forward="true" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/pattern_matching/8_option_class.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/pattern_matching/9_case_class and polymorphism.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/pattern_matching/10_Polymorphism.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Work/Test/src/TestScalaClass.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Work/Test/src/TestWorkSheet.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/BEGINNING SCALA PROGRAMMING/Beginning Scala Programming - Working Files/Chapter 2/creating_app_scala/src/MyApp.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/BEGINNING SCALA PROGRAMMING/Beginning Scala Programming - Working Files/Chapter 2/creating_script_scala/IntroScript.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/BEGINNING SCALA PROGRAMMING/Beginning Scala Programming - Working Files/Chapter 3/DoWhileLoops.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="7" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="6" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/BEGINNING SCALA PROGRAMMING/Beginning Scala Programming - Working Files/Chapter 3/NewIfStatements.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/BEGINNING SCALA PROGRAMMING/Beginning Scala Programming - Working Files/Chapter 5/Box.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="46" lean-forward="false" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/BEGINNING SCALA PROGRAMMING/Beginning Scala Programming - Working Files/Chapter 5/BoxScript.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/BEGINNING SCALA PROGRAMMING/Beginning Scala Programming - Working Files/Chapter 5/Couple.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/BEGINNING SCALA PROGRAMMING/Beginning Scala Programming - Working Files/Working Files - README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/BEGINNING SCALA PROGRAMMING/Beginning Scala Programming - Working Files/Chapter 7/EmployeeDesign.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="51" lean-forward="false" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.12.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Scala</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
