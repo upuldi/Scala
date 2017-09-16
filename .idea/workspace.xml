@@ -13,21 +13,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="8_Lists.sc" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/collections/8_Lists.sc">
+      <file leaf-file-name="1_ArraysBasics.sc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/collections/1_ArraysBasics.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="47" lean-forward="true" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="List.scala" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.3-sources.jar!/scala/collection/immutable/List.scala">
+      <file leaf-file-name="9_Lists_2.sc" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/collections/9_Lists_2.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="385" column="49" lean-forward="false" selection-start-line="385" selection-start-column="49" selection-end-line="385" selection-end-column="49" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -89,6 +89,7 @@
         <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/pattern_matching/7_CaseClasses.sc" />
         <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/pattern_matching/8_option_class.sc" />
         <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/collections/8_Lists.sc" />
+        <option value="$PROJECT_DIR$/Tutorials/ScalaForImpations/src/collections/9_Lists_2.sc" />
       </list>
     </option>
   </component>
@@ -148,6 +149,14 @@
               <item name="Tutorials" type="462c0819:PsiDirectoryNode" />
               <item name="ScalaForImpations" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Scala" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scala" type="462c0819:PsiDirectoryNode" />
+              <item name="Tutorials" type="462c0819:PsiDirectoryNode" />
+              <item name="ScalaForImpations" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="basics" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Scala" type="b2602c69:ProjectViewProjectNode" />
@@ -301,12 +310,20 @@
       <workItem from="1504947395865" duration="14916000" />
       <workItem from="1505005993726" duration="3467000" />
       <workItem from="1505167453330" duration="20528000" />
-      <workItem from="1505530921815" duration="1847000" />
+      <workItem from="1505530921815" duration="3089000" />
     </task>
+    <task id="LOCAL-00001" summary="List">
+      <created>1505534115750</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1505534115750</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42919000" />
+    <option name="totallyTimeSpent" value="44161000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1919" y="19" width="1922" height="1062" extended-state="6" />
@@ -346,39 +363,15 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="List" />
+    <option name="LAST_COMMIT_MESSAGE" value="List" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/collections/6_Mps_Another.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functionl_prog_1/1_basic.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="3" lean-forward="false" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functionl_prog_1/2_heigher_order_functions.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functionl_prog_1/3_Producer.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="10" lean-forward="false" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/functionl_prog_1/4_map_and_filter.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="397">
@@ -700,6 +693,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="47" lean-forward="true" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/collections/3_ArrayBuffer.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/collections/1_ArraysBasics.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/basics/1_Types.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tutorials/ScalaForImpations/src/collections/9_Lists_2.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
